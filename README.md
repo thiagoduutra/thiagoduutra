@@ -1,5 +1,5 @@
 
-### Olá! Me chamo Thiago. Estou iniciando na carreira de desenvolvedor Front-end. 😌
+### Olá! Me chamo Thiago. Estou iniciando na carreira de desenvolvedor Front-end.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-dutra-107b4a213/)
 
