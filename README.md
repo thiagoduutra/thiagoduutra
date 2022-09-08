@@ -3,6 +3,7 @@
 Apaixonado por tecnologia e trabalhando para entrar no meio de desenvolvimento!! 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-dutra-107b4a213/)
+[![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/thiagoduutra)
 
 [![Thiago Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoduutra&layout=compact)](https://github.com/thiagoduutra/github-readme-stats)
 
