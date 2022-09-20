@@ -9,9 +9,7 @@ Apaixonado por tecnologia e trabalhando para entrar no meio de desenvolvimento!!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoduutra&langs_count=8&theme=radical)](https://github.com/thiagoduutra/github-readme-stats)
 
 
-
-
-#### Início de aprendizado no momento
+## 🔨 Tecnologias
 
 <div style="display: inline_block"><br>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
@@ -19,4 +17,11 @@ Apaixonado por tecnologia e trabalhando para entrar no meio de desenvolvimento!!
 <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" >
 </div><br>
 
+## 📖 Interesses em aprender
+
+<div style="display: inline_block"><br>
+<img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+<img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img align="center" alt="reactjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</div><br>
 
