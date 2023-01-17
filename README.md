@@ -6,8 +6,6 @@ Apaixonado por tecnologia e trabalhando para entrar no meio de desenvolvimento!!
 [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/thiagoduutra)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoduutra&langs_count=8&theme=radical)](https://github.com/thiagoduutra/github-readme-stats)
-
 
 ## 🔨 Tecnologias
 
