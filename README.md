@@ -1,7 +1,7 @@
 ## Olá!! Me chamo Thiago e estou iniciando minha carreria de desenvolvedor FrontEnd.
 
 </br>
-<span>Apaixonado por tecnologia, estou trabalhando para ingressar no meio do desenvolvimento.</span>
+<h3>Apaixonado por tecnologia, estou trabalhando para ingressar no meio do desenvolvimento.</h3>
 
 </br>
 <ul>
