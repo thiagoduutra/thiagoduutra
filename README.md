@@ -166,12 +166,12 @@ flex-wrap: wrap;">
 
 </ul>
 
-
-    <img align="left" alt="Thiago's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thiagoduutra&show_icons=true&show=contribs,prs&cache_seconds=8640&theme=white&hide_border=true" />
+<div>
+    <img  alt="Thiago's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thiagoduutra&show_icons=true&show=contribs,prs&cache_seconds=8640&theme=white&hide_border=true" />
  
 <br>
-<img align="right" alt="Silas's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoduutra&layout=compact&theme=white&langs_count=10)](https://github.com/thiagoduutra/github-readme-stats&hide_border=true" />
-
+<img  alt="Thiago's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoduutra&layout=compact&theme=white&langs_count=10)](https://github.com/thiagoduutra/github-readme-stats&hide_border=true" />
+</div>
 <br>
 <br>
 
