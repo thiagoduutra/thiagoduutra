@@ -167,6 +167,14 @@ flex-wrap: wrap;">
 </ul>
 
 <div>
+    <img align="left" alt="Thiago's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thiagoduutra&show_icons=true&show=contribs,prs&cache_seconds=8640&theme=white&hide_border=true" />
+ 
+##
+<br>
+<img align="right" alt="Silas's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoduutra&layout=compact&theme=white&langs_count=10)](https://github.com/thiagoduutra/github-readme-stats&hide_border=true" />
+    </div>
+
+<div>
 <h2>Redes Sociais</h2>
 <a href="https://www.instagram.com/thiagoduutra/" target="_blank">
 <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
