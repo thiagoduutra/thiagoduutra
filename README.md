@@ -173,15 +173,15 @@ flex-wrap: wrap;">
               flex-wrap: wrap;"
     >
             <li>
-  <span>
-    <img
-      align="center"
-      alt="Thiago-CSharp"
-      height="30px"
-      width="40px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-    />
-  </span>
+          <span>
+            <img
+              align="center"
+              alt="Thiago-CSharp"
+              height="30px"
+              width="40px"
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+            />
+          </span>
   <span>C#:</span>
   <span> Intermediário</span>
 </li>  
@@ -199,6 +199,19 @@ flex-wrap: wrap;">
               <span> Intermediário</span>
         </li>
 </li>
+         <li>
+              <span>
+                <img
+                  align="center"
+                  alt="Thiago-SQLServer"
+                  height="30px"
+                  width="40px"
+                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+                />
+              </span>
+              <span>SQL Server:</span>
+              <span> Intermediário</span>
+        </li>
 </ul>
 
 
