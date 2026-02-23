@@ -198,22 +198,6 @@ flex-wrap: wrap;">
               <span>ASP.NET:</span>
               <span> Intermediário</span>
         </li>
-
-        <li>
-              <span>
-                <img
-                  align="center"
-                  alt="Thiago-SQLServer"
-                  height="30px"
-                  width="40px"
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
-                />
-              </span>
-              <span>SQL Server:</span>
-              <span> Intermediário</span>
-        </li>
-
-    </ul>
 </li>
 </ul>
 
