@@ -1,7 +1,7 @@
-## Olá!! Me chamo Thiago e estou iniciando minha carreira de desenvolvedor FrontEnd.
+## Olá!! Me chamo Thiago e estou iniciando minha carreira de desenvolvedor FullStack.
 
 </br>
-<h3>Apaixonado por tecnologia, estou trabalhando para ingressar no meio do desenvolvimento.</h3>
+<h3>Apaixonado por tecnologia.</h3>
 
 </br>
 <ul>
@@ -164,6 +164,57 @@ flex-wrap: wrap;">
     </li>
 </li>
 
+<li>
+    <h3>Back-end e Banco de Dados:</h3>
+    <ul style="display: flex;
+              flex-direction: column;
+              align-items: flex-start;
+              column-gap: 10px;
+              flex-wrap: wrap;"
+    >
+            <li>
+  <span>
+    <img
+      align="center"
+      alt="Thiago-CSharp"
+      height="30px"
+      width="40px"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+    />
+  </span>
+  <span>C#:</span>
+  <span> Intermediário</span>
+</li>  
+        <li>
+              <span>
+                <img
+                  align="center"
+                  alt="Thiago-DotNet"
+                  height="30px"
+                  width="40px"
+                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"
+                />
+              </span>
+              <span>ASP.NET:</span>
+              <span> Intermediário</span>
+        </li>
+
+        <li>
+              <span>
+                <img
+                  align="center"
+                  alt="Thiago-SQLServer"
+                  height="30px"
+                  width="40px"
+                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+                />
+              </span>
+              <span>SQL Server:</span>
+              <span> Intermediário</span>
+        </li>
+
+    </ul>
+</li>
 </ul>
 
 
