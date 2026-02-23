@@ -1,4 +1,4 @@
-## Olá!! Me chamo Thiago e estou iniciando minha carreira de desenvolvedor FullStack.
+## Olá!! Me chamo Thiago e sou desenvolvedor FullStack.
 
 </br>
 <h3>Apaixonado por tecnologia.</h3>
