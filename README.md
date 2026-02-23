@@ -106,7 +106,7 @@ flex-wrap: wrap;">
                 />
               </span>
               <span>TypeScript:</span>
-              <span>Básico</span>
+              <span>Intermediário</span>
             </li>
             <li>
               <span>
@@ -119,7 +119,7 @@ flex-wrap: wrap;">
                 />
               </span>
               <span>React.js: </span>
-              <span>Básico</span>
+              <span>Intermediário</span>
             </li>
     </ul>
     </br>
@@ -145,7 +145,7 @@ flex-wrap: wrap;">
                 />
               </span>
               <span>GIT:</span>
-              <span>Básico</span>
+              <span>Intermediário</span>
             </li>
             <li>
               <span>
@@ -158,7 +158,7 @@ flex-wrap: wrap;">
                 />
               </span>
               <span>GitHub:</span>
-              <span>Básico</span>
+              <span>Intermediário</span>
             </li>
           </ul>
     </li>
